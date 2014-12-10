@@ -628,6 +628,6 @@
 
      <!-- About phone screen, A2D-MY version -->
     <string name="a2d_version">A2D-MY version</string>
-    <string name="a2d_version_default">Untold</string>
+    <string name="a2d_version_default">Rage</string>
 
 </resources>
